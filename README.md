@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pmatty-nkda
-- 👀 I’m interested in Machine Learning, Developing key tools for operational efficiency and teaching others to develop the coding skills they need incroperating by incroperating AI into their learning
+- 👀 I’m interested in Machine Learning, Developing new tools and teaching others to code
 - 🌱 I’m currently learning C-Sharp
 - 📫 Reach out via email
